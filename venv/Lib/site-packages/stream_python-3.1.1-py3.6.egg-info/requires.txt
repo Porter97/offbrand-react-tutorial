@@ -1,0 +1,11 @@
+pycryptodomex<4,>=3.4.7
+requests<3,>=2.3.0
+six>=1.8.0
+pyjwt<1.8.0,>=1.3.0
+
+[test]
+unittest2py3k
+pytest==3.2.5
+unittest2
+pytest-cov
+python-dateutil
